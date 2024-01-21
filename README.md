@@ -2,28 +2,35 @@
 
 ## I'm SKSudharsanan
 
-A passionate Rust Engineer currently shaping the future at a stealth startup. With a rich history as a Sr. Blockchain R&D Developer at GuardianLink and a curious engineer in Blockchain and AI at HTC Global Services, I'm always on the lookout for new challenges and innovations.
+A committed Rust Engineer by profession, innovating at a stealth startup, and a former Sr. Blockchain R&D Developer at GuardianLink. My journey has been marked by a deep dive into Blockchain and AI at HTC Global Services.
 
-### What I'm up to:
+### What I'm focused on:
 
-- 👀 I’m harnessing my passion for building impactful software applications and engaging in insightful discussions about the latest software products.
-- 🌱 Currently, I'm delving deep into Rust, building scalable and efficient software that powers tomorrow.
-- 💼 Previously, I've put my skills to test in Blockchain and AI R&D, solving complex problems and driving technological advancements.
+- 👀 Passionate about creating robust software applications and engaging in meaningful conversations about the latest in software.
+- 🌱 Currently honing my skills in Rust to architect the next generation of software infrastructure.
+- 💼 Drawing upon a rich history in Blockchain and AI to tackle today's tech challenges.
 
-### Collaboration:
+### My YouTube Channel:
 
-- 💞️ I'm eager to collaborate on discussions around tech products on my YouTube channel.
-- 🌟 I welcome open source contributions, particularly in projects that are at the intersection of blockchain and AI.
+- 🎥 Visit my channel [@sksudharsanan](https://www.youtube.com/sksudharsanan) for deep dives into tech products, live coding sessions, and a behind-the-scenes look at the software development process. Join me for in-depth discussions and a shared love for all things tech.
 
-### Get in Touch:
+### Collaboration Opportunities:
 
-- 📫 Feel free to reach out to me via email at [sudharsanank029@gmail.com](mailto:sudharsanank029@gmail.com), on Telegram [@nanasrahdus](https://t.me/nanasrahdus), or on Twitter [@sksudharsanan](https://twitter.com/sksudharsanan).
+- 💞️ I'm open to collaborations that spark tech conversations on my YouTube channel and contribute to meaningful open source projects, particularly in blockchain and AI.
 
-### A little more about me:
+### Let's Connect:
+
+- 📫 Email me at [sudharsanank029@gmail.com](mailto:sudharsanank029@gmail.com)
+- 🗨️ Message me on Telegram: [@nanasrahdus](https://t.me/nanasrahdus)
+- 🐦 Follow me on Twitter: [@sksudharsanan](https://twitter.com/sksudharsanan)
+- 💼 Connect with me on LinkedIn: [@sksudharsanan](https://www.linkedin.com/in/sksudharsanan)
+- 📷 Follow my journey on Instagram: [@sudharsanan_kirubanandhan](https://instagram.com/sudharsanan_kirubanandhan)
+
+### A bit more about me:
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, you might find me brewing the perfect cup of tea/coffee or watching my favourite movies or shooting for my youtube channel!
+- ⚡ Fun fact: When I'm not coding, I'm likely immersing myself in gaming worlds or perfecting my coffee brew.
 
 ---
 
-> "The best way to predict the future is to invent it." - Alan Kay
+_"Create with the heart; build with the mind."_ - Criss Jami
